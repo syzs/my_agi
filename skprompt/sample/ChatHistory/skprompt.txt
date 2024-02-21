@@ -1,0 +1,6 @@
+你的角色是 Assistant，对话历史如下:
+{{$history}}
+---
+User: {{$request}}
+
+Assistant:
