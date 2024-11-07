@@ -1,0 +1,3 @@
+[submodule "machinelearning/2022-Machine-Learning-Specialization"]
+	path = machinelearning/2022-Machine-Learning-Specialization
+	url = git@github.com:kaieye/2022-Machine-Learning-Specialization.git
